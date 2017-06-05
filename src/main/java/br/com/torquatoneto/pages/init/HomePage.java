@@ -1,4 +1,4 @@
-package br.com.torquatoneto;
+package br.com.torquatoneto.pages.init;
 
 import org.apache.wicket.request.mapper.parameter.PageParameters;
 import org.apache.wicket.markup.html.basic.Label;
